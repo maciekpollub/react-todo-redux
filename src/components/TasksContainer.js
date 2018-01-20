@@ -17,7 +17,7 @@ const mapDispatchToProps = dispatch => ({
   removeTask: task => dispatch(remove(task))
 });
 
-class TasksList extends Component {
+class TasksContainer extends Component {
 
   state = {
     task: ''
@@ -63,4 +63,4 @@ class TasksList extends Component {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(TasksList);
+)(TasksContainer);
