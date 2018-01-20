@@ -24,4 +24,4 @@ Visit: https://patrykomiotek.github.io/react-todo-redux/
 
 ## Other versions
 * [react-todo](https://github.com/patrykomiotek/react-todo)
-* [react-todo-firebase](https://github.com/patrykomiotek/react-todo-firebase)
+* [react-todo-redux-firebase](https://github.com/patrykomiotek/react-todo-redux-firebase)
